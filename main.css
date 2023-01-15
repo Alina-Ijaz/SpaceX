@@ -1,0 +1,132 @@
+header {
+    background-color: rgb(64, 67, 202);
+    padding: 20px;
+    width: 80.3%;
+}
+
+.image {
+    background-color: rgb(130, 117, 207);
+    width: 52%;
+}
+
+.intro {
+    background-color: rgb(82, 127, 185);
+
+    width: 63%;
+
+    display: inline-block;
+}
+
+.video {
+    background-color: darkcyan;
+    width: 63%;
+    float: left;
+    padding-bottom: 64.6px;;
+}
+
+.image {
+    background-color: blue;
+    width: 39%;
+}
+
+footer {
+    background-color: mediumturquoise;
+    padding: 15px;
+    padding-bottom: 0px;
+    width: 61%;
+    display: inline-block;
+}
+
+.intr {
+    background-color: rgb(64, 67, 202);
+    padding: 10px;
+}
+
+.img {
+    background-color: mediumturquoise;
+    padding: 0px;
+}
+
+.main-block {
+    background-color: rgb(64, 67, 202);
+    padding: 10px;
+}
+
+.info {
+    background-color: darkcyan;
+    padding: 28px;
+    margin-right: 656px;
+}
+
+.text {
+    background-color: rgb(82, 127, 185);
+    padding: 14px;
+    float: left;
+    padding-right: 184px;
+}
+
+.double {
+    background-color: darkcyan;
+    padding: 100px;
+    padding-bottom: 75px;
+}
+
+.form {
+    background-color: darkcyan;
+    padding: 113.7px;
+    padding-bottom: 32px;
+    width: 68.3%;
+}
+
+nav {
+    background-color: rgb(53 120 120);
+    /* Grey background color */
+    float: left;
+    padding-top: 20px;
+    display: inline-flex;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+
+nav a {
+    background-color: rgb(53 120 120);
+    /* Grey background color */
+    color: black;
+    /*Black text color */
+    display: block;
+    /* Make the links appear below each other */
+    padding: 7px;
+    /*Add some padding */
+    text-decoration: none;
+    /* Remove underline from links */
+    width: 276px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+nav a:hover {
+    background-color: #ccc;
+    /* Dark grey background on mouse-over */
+}
+
+nav a.active {
+    background-color: darkcyan;
+    /*Add a green color to the "active/current" link */
+    color: white;
+    display: block;
+    /* Make the links appear below each other */
+    padding: 7px;
+    /* Add some padding */
+    text-decoration: none;
+    /*Remove underline from links */
+    width: 276px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0px;
+}

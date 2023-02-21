@@ -2,7 +2,6 @@ header {
     background-color: rgb(64, 67, 202);
     height: 100px;
     font-size: x-large;
-
     width: 100%;
     display: inline-block;
 }
@@ -35,7 +34,6 @@ header {
 footer {
     background-color: mediumturquoise;
     padding: 6px;
-
     width: 79.2%;
     display: inline-block;
 
@@ -66,7 +64,6 @@ footer {
     background-color: rgb(82, 127, 185);
     padding: 14px;
     float: left;
-
     width: 78.1%;
 }
 
@@ -88,7 +85,6 @@ nav {
     /* Grey background color */
     float: left;
     padding-top: 20px;
-
     padding-bottom: 20px;
 
 }

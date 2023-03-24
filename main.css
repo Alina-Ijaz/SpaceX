@@ -27,7 +27,7 @@ header {
 footer {
     background-color: mediumturquoise;
     padding: 6px;
-    width: 78.42%;
+    width: 79.2%;
     display: inline-block;
     padding-bottom: 0%;
 }
@@ -78,7 +78,7 @@ nav {
     /* Grey background color */
     float: left;
     padding-top: 20px;
-    padding-bottom: 19px;
+    padding-bottom: 19.5px;
     width: 20%;
 
 }

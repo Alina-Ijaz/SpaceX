@@ -28,13 +28,13 @@ header {
 
 .image {
     background-color: blue;
-    width: 39%;
+   
 }
 
 footer {
     background-color: mediumturquoise;
     padding: 6px;
-    width: 79.2%;
+    width: 78.42%;
     display: inline-block;
     padding-bottom: 0%;
 }
@@ -85,7 +85,7 @@ nav {
     /* Grey background color */
     float: left;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 19px;
     width: 20%;
 
 }

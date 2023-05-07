@@ -1,3 +1,6 @@
+.wrapper{
+    display: flow-root;
+}
 header {
     background-color: rgb(64, 67, 202);
     height: 100px;

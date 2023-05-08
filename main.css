@@ -80,6 +80,9 @@ nav {
     padding-top: 20px;
     padding-bottom: 19.5px;
     width: 20%;
+    display: flex;
+    justify-content: center;
+
 
 }
 

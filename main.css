@@ -8,9 +8,6 @@ header {
     width: 100%;
     display: inline-block;
 }
-
-
-
 .intro {
     background-color: rgb(82, 127, 185);
     display: flex;

@@ -1,12 +1,14 @@
-.wrapper{
+.wrapper {
     display: flow-root;
 }
+
 header {
     background-color: rgb(64, 67, 202);
     font-size: x-large;
     width: 100%;
     display: inline-block;
 }
+
 .intro {
     background-color: rgb(82, 127, 185);
     width: 80%;
@@ -19,6 +21,7 @@ header {
     float: left;
     padding-bottom: 104.3px;
 }
+
 footer {
     background-color: mediumturquoise;
     padding: 6px;
@@ -51,7 +54,7 @@ footer {
 .text {
     background-color: rgb(82, 127, 185);
     padding: 15px;
- 
+
 }
 
 .double {

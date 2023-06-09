@@ -13,7 +13,8 @@ header {
 
 .intro {
     background-color: rgb(82, 127, 185);
-
+    display: flex;
+    justify-content: center;
     width: 80%;
 
     display: inline-block;
